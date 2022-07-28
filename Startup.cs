@@ -49,7 +49,7 @@ namespace PSCIDemo
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                 endpoints.MapRazorPages();
             });
         }
     }
